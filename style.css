@@ -12,8 +12,8 @@ body {
     margin:auto;
     line-height: 25px;
 }
-
 .container {
+    text-align: center;
     padding: 20px;
 }
 h1,
